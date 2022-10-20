@@ -1,0 +1,44 @@
+[
+    {
+        "id": "6331e51fac210c55a4ebb501",
+        "price": 690,
+        "eyeColor": "blue",
+        "name": "John Fernandez"
+    },
+    {
+        "id": "6331e51ff7ff8c30523b422f",
+        "price": 467,
+        "eyeColor": "green",
+        "name": "Santana Andrews"
+    },
+    {
+        "id": "6331e51fff70bccba37aa395",
+        "price": 259,
+        "eyeColor": "brown",
+        "name": "Turner Holman"
+    },
+    {
+        "id": "6331e51f2f6b3d10fccd3713",
+        "price": 912,
+        "eyeColor": "blue",
+        "name": "Cardenas Callahan"
+    },
+    {
+        "id": "6331e51f6a7acd4f27b54c28",
+        "price": 270,
+        "eyeColor": "brown",
+        "name": "Sosa Merrill"
+    },
+    {
+        "id": "6331e51fb955d149fc52eb4f",
+        "price": 89,
+        "eyeColor": "blue",
+        "name": "Tammie Mckenzie"
+    },
+    {
+        "id": "6331e51f1ac9e460c9d16d02",
+        "price": 300,
+        "eyeColor": "blue",
+        "name": "Janine Higgins"
+    }
+]
